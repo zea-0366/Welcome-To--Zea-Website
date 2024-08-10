@@ -7,7 +7,7 @@ function Contact() {
         <div className="footer">
             <div className="footer-section">
                 <h3>About</h3>
-                <p>often participate in softwere engineering competitions</p>
+                <p>often participate in software engineering competitions</p>
             </div>
             <div className="footer-section">
                 <h3>Email</h3>
